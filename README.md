@@ -46,14 +46,6 @@ The Indian Sign Language Interpreter is an AI-powered system designed to classif
 ## Conclusion
 This project showcases the potential of deep learning in addressing societal challenges. By translating ISL gestures into text, it empowers individuals with hearing and speech impairments, fostering inclusivity and accessibility.
 
-## Contributors
-- Amrit Sagar
-- Govind Singh
-- Aagman
-- Akhilesh Nath Yadav
-
-**Under the guidance of Dr. Shivang Tripathi**
-
 ---
 
 **Transforming communication with AI for an inclusive future.**
