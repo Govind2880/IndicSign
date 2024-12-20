@@ -1,4 +1,4 @@
-# Indian Sign Language Interpreter
+# IndicSign
 
 **Bridging the communication gap with cutting-edge deep learning techniques.**
 
